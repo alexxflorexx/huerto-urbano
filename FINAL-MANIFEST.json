@@ -1,0 +1,123 @@
+{
+  "site_id": "site-d6903b42b39c",
+  "keyword": "huerto urbano",
+  "topic": "Guía completa de huerto urbano",
+  "slug": "huerto-urbano",
+  "directory": "huerto-urbano__2026-08-27",
+  "version": 1,
+  "created_at": "2026-08-27T01:08:21+00:00",
+  "updated_at": "2026-08-27T01:09:01+00:00",
+  "exported_at": "2026-08-27T01:09:29+00:00",
+  "decision": "CREATE_SITE",
+  "cluster_id": "CLU-59ecc40a0bbf",
+  "pages_count": 12,
+  "pages": [
+    "404.html",
+    "articulos/calendario-base-del-huerto-urbano-en-macetas/index.html",
+    "articulos/index.html",
+    "categorias/calendario/index.html",
+    "categorias/index.html",
+    "contacto/index.html",
+    "cookies/index.html",
+    "guia/index.html",
+    "index.html",
+    "privacidad/index.html",
+    "sobre-nosotros/index.html",
+    "terminos/index.html"
+  ],
+  "assets": [
+    "404.html",
+    "ads.txt",
+    "articulos/calendario-base-del-huerto-urbano-en-macetas/index.html",
+    "articulos/index.html",
+    "categorias/calendario/index.html",
+    "categorias/index.html",
+    "contacto/index.html",
+    "cookies/index.html",
+    "css/responsive.css",
+    "css/style.css",
+    "favicon.svg",
+    "guia/index.html",
+    "images/22e9c331843266b4-hero.jpg",
+    "images/9965149ce323b8e6-subject.jpg",
+    "images/hero.svg",
+    "index.html",
+    "js/main.js",
+    "manifest.webmanifest",
+    "privacidad/index.html",
+    "robots.txt",
+    "rss.xml",
+    "sitemap.xml",
+    "sobre-nosotros/index.html",
+    "terminos/index.html"
+  ],
+  "asset_hashes_sha256_16": {
+    "rss.xml": "653b0002588e2978",
+    "index.html": "dc2e21d399893dbb",
+    "ads.txt": "61ed7ec7122f296c",
+    "404.html": "155dd0b7c29c8755",
+    "sitemap.xml": "6da80df1b68c7c43",
+    "robots.txt": "a498f9b6e7499316",
+    "manifest.webmanifest": "c0e53ad63906ffa7",
+    "favicon.svg": "a53478486f446369",
+    "guia/index.html": "444dfe87f403e4e3",
+    "css/responsive.css": "facf8382a0fc2d57",
+    "css/style.css": "c85ae8992250cef4",
+    "images/hero.svg": "525f30c2eb39e014",
+    "images/9965149ce323b8e6-subject.jpg": "9965149ce323b8e6",
+    "images/22e9c331843266b4-hero.jpg": "22e9c331843266b4",
+    "js/main.js": "38e8c817bf4a9b29",
+    "articulos/index.html": "893fc1b300ae469f",
+    "contacto/index.html": "535add527e6f7982",
+    "sobre-nosotros/index.html": "3e64163752145fdf",
+    "categorias/index.html": "ea1e4a0ae83f37bc",
+    "terminos/index.html": "9b3cb36803376101",
+    "privacidad/index.html": "a604e3797ff24960",
+    "cookies/index.html": "931c40ed3328656c",
+    "categorias/calendario/index.html": "4dd3131bf1dd89fe",
+    "articulos/calendario-base-del-huerto-urbano-en-macetas/index.html": "bb07d579f355f2b3"
+  },
+  "images": [
+    {
+      "file": "22e9c331843266b4-hero.jpg",
+      "source": "https://live.staticflickr.com/5464/9371281769_c42e70fd00_b.jpg",
+      "author": "Diego Cerezuela Bueno",
+      "license": "CC BY-SA 2.0",
+      "sha256": "22e9c331843266b478c57bc94432c422c4e813a9aad984dc9b80b100d47ce48c"
+    },
+    {
+      "file": "9965149ce323b8e6-subject.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Ayuntamiento_Los_Huertos_-_20070818.jpg",
+      "author": "Mr. Tickle",
+      "license": "CC BY-SA 3.0",
+      "sha256": "9965149ce323b8e6ec426217dd2eac763a78a134bb4ad9ca9c318257fbdf901b"
+    }
+  ],
+  "qa": {
+    "technical": "PASS/WARN (ver validator en build_report)",
+    "visual": "ver runs/visual-qa/site-d6903b42b39c",
+    "editorial": "ver learning_log",
+    "quality_gate": "UNKNOWN",
+    "quality_score": null
+  },
+  "export_gate": {
+    "blockers": [],
+    "warnings": [
+      "gate_desconocido (web histórica)"
+    ]
+  },
+  "content_hash": "bdfef80f214ff2ff5bd7f8b70029e187",
+  "generator": "Money Web Factory — local-first, sin secretos",
+  "http_check": {
+    "ok": true,
+    "results": {
+      "index.html": 200,
+      "sitemap.xml": 200,
+      "robots.txt": 200,
+      "css/style.css": 200,
+      "css/responsive.css": 200,
+      "images/22e9c331843266b4-hero.jpg": 200,
+      "js/main.js": 200
+    }
+  }
+}
